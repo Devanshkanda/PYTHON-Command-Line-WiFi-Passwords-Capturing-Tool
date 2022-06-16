@@ -19,3 +19,7 @@ Now a textFile is created named "wifi" where all of your saved wifi SSID's With 
 SEE CONTENTS OF WIFI.TXT FILE
 ![image](https://user-images.githubusercontent.com/101200047/174040234-4f60f157-127d-4086-956c-8737e8ae6931.png)
 
+here is the text file
+![image](https://user-images.githubusercontent.com/101200047/174040394-a188565d-f160-4896-8821-97ac03368d9e.png)
+![image](https://user-images.githubusercontent.com/101200047/174040445-6ffefcc7-134f-45a3-8421-45534ceebbef.png)
+
