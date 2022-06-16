@@ -1,4 +1,7 @@
 # PYTHON-Command-Line-Wifi-Passwords-Capturing-Tool
+
+DISCLAIMER : THIS TOOL IS MADE FOR PENETRATION TESTING AND EDUCATIONAL PURPOSES ONLY . DO NOT USE IT FOR ANY ILL INTENT PURPOSE  
+
 This is a Python Script that captures wifi passwords in windows and save them in text file , and have the functionality to Mail those Passwords to yourself
 
 un-comment commands from line no 53 and ADD your values and run it.
